@@ -4,6 +4,7 @@
       "title": "Sample API",
       "version": "1.0.0",
       "source": "integer",
+      "consumer": "string",
       "description": "This is a sample API"
     },
     "paths": {
@@ -17,6 +18,7 @@
                 "application/json": {
                   "schema": {
                     "type": "array",
+                    "source": "integer",
                     "items": {
                       "$ref": "#/components/schemas/User"
                     }
