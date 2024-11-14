@@ -3,6 +3,7 @@
     "info": {
       "title": "Sample API",
       "version": "1.0.0",
+      "source": "integer",
       "description": "This is a sample API"
     },
     "paths": {
