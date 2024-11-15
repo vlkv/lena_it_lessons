@@ -1,7 +1,7 @@
 # Создание полной документации для REST API, следуя стандарту OpenAPI в Swagger
 
 - Попросил ChatGPT рассказать об этом. Оттуда можно взять пример API на YAML.
-- YAML vs JSON
+- YAML vs JSON - добавить примеры
 - Что такое REST API, Что такое Open API, Что такое Swagger и SwaggerUI.
 - Чтобы генерить документацию можно юзать SwaggerUI и Docker, вот ссылка
   - https://github.com/swagger-api/swagger-ui/blob/HEAD/docs/usage/installation.md#docker
